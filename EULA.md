@@ -36,7 +36,7 @@ published, and no rights to the source code are granted by this Agreement.
 
 ## 3. Refunds
 
-If Overscan doesn't work with your setup, contact jmmoser15@gmail.com within 14
+If Overscan doesn't work with your setup, contact getoverscan@gmail.com within 14
 days of purchase for a full refund.
 
 ## 4. Privacy
@@ -83,4 +83,4 @@ that jurisdiction.
 
 ## 10. Contact
 
-Justin Moser — jmmoser15@gmail.com
+Justin Moser — getoverscan@gmail.com

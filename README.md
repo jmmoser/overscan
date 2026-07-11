@@ -45,7 +45,7 @@ picture), screen zones, edge-to-edge gradients on multizone strips
 activates offline — no account, no subscription.
 
 Buy Pro from the app (menu → **Upgrade to Pro**) or contact
-**jmmoser15@gmail.com**. Commercial or business use (venues, events, paid
+**getoverscan@gmail.com**. Commercial or business use (venues, events, paid
 services) requires a commercial license — same address.
 
 ## Privacy
@@ -65,4 +65,4 @@ Verify a download: each release ships a `SHA256SUMS` file, and each binary
 an Ed25519 `.sig` the app itself uses to verify self-updates.
 
 Found a bug or need help? [Open an issue](https://github.com/jmmoser/overscan/issues)
-or email **jmmoser15@gmail.com**.
+or email **getoverscan@gmail.com**.
