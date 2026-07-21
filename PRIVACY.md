@@ -16,9 +16,12 @@ optional once-a-day version check — see below.)
   average color (3 numbers) and beat timing — over a WebSocket connection to
   the Overscan desktop app running on `localhost` on the same computer. The desktop
   app relays color commands to your smart lights over your local Wi-Fi network.
-- **Settings.** Your light selections are stored using your browser's extension
-  storage (`storage.sync`), which your browser may sync between your own
-  devices if you have browser sync enabled.
+- **Settings.** Your light selection and effect settings are stored by the
+  desktop app in files on your computer (`~/.overscan/`). The extension keeps
+  only its own small preferences — the per-site off list and the desktop
+  app's port — in your browser's extension storage (`storage.sync`), which
+  your browser may sync between your own devices if you have browser sync
+  enabled.
 - **License keys** (Pro) are verified locally on your computer. No activation
   server, no phone-home.
 - **Update check.** Once a day, the desktop app asks GitHub's public API for
